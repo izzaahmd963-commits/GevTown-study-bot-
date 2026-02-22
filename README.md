@@ -1,1 +1,1 @@
-# GevTown-study-bot-
+# GevTown-study-bot
